@@ -1,0 +1,24 @@
+{
+  "name": "frameless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markwang-MC/frameless.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webframework\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C",
+    "framework"
+  ],
+  "author": "Jimmy.w.xuanyu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markwang-MC/frameless/issues"
+  },
+  "homepage": "https://github.com/Markwang-MC/frameless#readme",
+  "description": ""
+}
